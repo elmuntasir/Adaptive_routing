@@ -1,0 +1,7 @@
+Flask
+Flask-SQLAlchemy
+strawberry-graphql[flask]
+Faker
+flask-cors
+beautifulsoup4
+requests
